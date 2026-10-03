@@ -2,7 +2,7 @@ import shutil
 from pathlib import Path
 
 # Куда складывать — папка для сортировки
-TARGET_DIR = Path.home() / "22222"  # или укажи свою
+TARGET_DIR = Path.home() / "22222"  
 
 # Категории и расширения
 CATEGORIES = {
