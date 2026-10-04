@@ -1,0 +1,20 @@
+Виртуальное окружение
+.venv/
+venv/
+env/
+
+Кэш Python
+pycache/
+*.py[cod]
+*$py.class
+
+PyCharm
+.idea/
+
+Файлы окружения (если позже добавишь токены/секреты)
+.env
+*.env
+
+Системные файлы
+.DS_Store
+Thumbs.db
